@@ -1,0 +1,4 @@
+apiVersion: v1
+description: A Helm chart for deploying python-app to k8s
+name: python-app
+version: ${version}
